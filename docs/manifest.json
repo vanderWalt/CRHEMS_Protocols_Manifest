@@ -1,0 +1,8 @@
+{
+  "latestVersion": "2025.1",
+  "rollout": { "type": "percent", "value": 0 },
+  "pdf": {
+    "url": "https://github.com/vanderWalt/CRHEMS_Protocols/releases/latest/download/CRHEMS.Protocols.pdf",
+    "sha256": "TEMP"
+  }
+}
